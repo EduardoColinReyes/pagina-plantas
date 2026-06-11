@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title>Planta de escritorio</title>
+  <desc>Ilustración de una planta decorativa en maceta.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#072007" />
+      <stop offset="100%" stop-color="#0f1d0d" />
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#62d68c" />
+      <stop offset="100%" stop-color="#0f7f44" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#bg)" rx="40" />
+  <g transform="translate(160 80)">
+    <ellipse cx="160" cy="290" rx="170" ry="80" fill="#10210f" opacity="0.9" />
+    <rect x="130" y="210" width="80" height="120" rx="20" fill="#143f1f" />
+    <path d="M160 210 C 90 180 60 120 120 90 C 180 60 180 90 200 110 C 220 130 220 170 190 190" fill="url(#leaf)" />
+    <path d="M160 210 C 220 180 260 120 220 90 C 180 60 180 90 160 110 C 140 130 140 170 160 190" fill="url(#leaf)" />
+    <path d="M160 180 C 140 110 100 80 80 80 C 40 80 40 140 80 170 C 110 190 140 190 160 180" fill="#9fe8b5" opacity="0.7" />
+    <path d="M160 180 C 180 110 220 80 240 80 C 280 80 280 140 240 170 C 210 190 180 190 160 180" fill="#9fe8b5" opacity="0.7" />
+  </g>
+</svg>

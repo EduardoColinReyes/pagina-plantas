@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" role="img" aria-labelledby="title desc">
+  <title>Avatar de asesoría</title>
+  <desc>Icono de una persona como avatar.</desc>
+  <rect width="260" height="260" rx="40" fill="#08150f" />
+  <circle cx="130" cy="90" r="50" fill="#1c6e44" />
+  <path d="M70 220 C70 180 110 160 130 160 C150 160 190 180 190 220" fill="#1a7f50" />
+  <circle cx="100" cy="80" r="10" fill="#b8f0cd" />
+  <circle cx="160" cy="80" r="10" fill="#b8f0cd" />
+</svg>

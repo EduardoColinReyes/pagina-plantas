@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title>Decoración verde 2</title>
+  <desc>Ilustración de una superficie verde decorativa con líneas.</desc>
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08140c" />
+      <stop offset="100%" stop-color="#144825" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#g2)" rx="40" />
+  <path d="M120 360 Q220 310 300 380 T520 360" fill="none" stroke="#52c56d" stroke-width="18" opacity="0.8" stroke-linecap="round" />
+  <path d="M180 120 L220 160 L260 120 L300 160 L340 120 L380 160" fill="none" stroke="#7fe0a3" stroke-width="16" stroke-linecap="round" />
+  <circle cx="520" cy="120" r="58" fill="#3bb45e" opacity="0.8" />
+</svg>
