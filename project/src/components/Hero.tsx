@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
 import { ArrowRight, Leaf, Sparkles } from 'lucide-react';
-import hero1 from '../assets/hero-1.svg';
-import hero2 from '../assets/hero-2.svg';
-import hero3 from '../assets/hero-3.svg';
+import hero1 from '../assets/pothos.jpg';
+import hero2 from '../assets/sansevieria.jpg';
+import hero3 from '../assets/chlorophytum.webp';
 
 interface HeroProps {
   onQuizOpen: () => void;
