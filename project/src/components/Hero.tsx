@@ -147,7 +147,7 @@ export default function Hero({ onQuizOpen, onCatalogScroll }: HeroProps) {
         >
           Transforma tu
           <br />
-          <span className="gradient-text font-semibold italic">oficina</span>
+          <span className="gradient-text font-semibold italic">cubiculo</span>
           <br />
           en un espacio de
           <br />
